@@ -1,1 +1,1 @@
-# processamento-digital-de-sinais
+# Processamento digital de sinais
